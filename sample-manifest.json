@@ -1,0 +1,12 @@
+{
+  "export_job_id": "7aca7d20-bd1f-44a0-82bb-6b0c5acfdc9d",
+  "id_short": 666051,
+  "published_at": "2026-04-14T19:32:11Z",
+  "repo_name": "all-restaurants-in-springfield-metro-missouri-us-sample-666051",
+  "sample_asset_name": "beamstation_666051_restaurants-us-springfieldmo_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/666051/beamstation_666051_restaurants-us-springfieldmo_SAMPLE_DIST.csv",
+  "sample_records": 107,
+  "sample_sha256": "6b5d88b37df8a2d0fa85f0e7190b4531aae96a8490018e2cf48be12dbdea6d86",
+  "sample_size_bytes": 359410,
+  "total_records": 719
+}
