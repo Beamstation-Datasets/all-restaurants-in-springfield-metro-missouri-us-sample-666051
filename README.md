@@ -9,9 +9,9 @@
 | Dataset ID | `666051` |
 | Location | Springfield, MO |
 | Category | Restaurants |
-| Full dataset size | 719 records |
-| Free sample size | 107 records (14.88%) |
-| Last export | 2026-03-31T17:01:32.857306+00:00 |
+| Full dataset size | 1,076 records |
+| Free sample size | 107 records (9.94%) |
+| Last export | 2026-04-14T18:00:19.297233+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-springfield-metro-missouri-us-sample-666051/releases/download/sample-latest/beamstation_666051_restaurants-us-springfieldmo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
