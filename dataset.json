@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete restaurant census for the Springfield (Metro), Missouri metro, covering Springfield. Spans multiple municipalities within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Springfield (Metro), Missouri, US",
-  "export_job_id": "7aca7d20-bd1f-44a0-82bb-6b0c5acfdc9d",
+  "export_job_id": "1c71e1f9-6ab7-4551-a280-91f344a74513",
   "github_org": "Beamstation-Datasets",
   "id_short": 666051,
   "location_name": "Springfield, MO",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-springfield-metro-missouri-us-sample-666051",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/666051/beamstation_666051_restaurants-us-springfieldmo_SAMPLE_DIST.csv",
-  "sample_pct": 14.88,
+  "sample_pct": 9.94,
   "sample_records": 107,
   "sample_sha256": "6b5d88b37df8a2d0fa85f0e7190b4531aae96a8490018e2cf48be12dbdea6d86",
   "sample_size_bytes": 359410,
-  "total_records": 719,
-  "updated_at": "2026-03-31T17:01:32.857306+00:00"
+  "total_records": 1076,
+  "updated_at": "2026-04-14T18:00:19.297233+00:00"
 }
