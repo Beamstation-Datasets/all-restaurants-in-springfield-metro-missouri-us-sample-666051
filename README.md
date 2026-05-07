@@ -1,6 +1,6 @@
 # All Restaurants in Springfield (Metro), Missouri, US
 
-> Free BeamStation sample export with 101 rows and masked direct-contact fields.
+> Free BeamStation sample export with 111 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `666051` |
 | Location | Springfield, MO |
 | Category | Restaurants |
-| Full dataset size | 1,019 records |
-| Free sample size | 101 records (9.91%) |
-| Last export | 2026-04-28T21:29:29.455494+00:00 |
+| Full dataset size | 1,114 records |
+| Free sample size | 111 records (9.96%) |
+| Last export | 2026-05-07T16:13:17.255968+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-springfield-metro-missouri-us-sample-666051/releases/download/sample-latest/beamstation_666051_restaurants-us-springfieldmo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
